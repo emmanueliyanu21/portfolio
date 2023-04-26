@@ -1,0 +1,130 @@
+
+.port h2 {
+    font-size: 16px!important;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: ABeeZee;
+  }
+  
+  .port .work {
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 1px 1px 3px 1px rgb(224, 224, 224);
+  }
+  
+  .port {
+    margin-bottom: 30px;
+    margin-top: 40px;
+  }
+  
+  .dis img {
+    max-width: 20%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  
+  .ds-1 img {
+    max-width: 25%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+  .work a {
+    color: #000!important;
+  }
+  
+  .work {
+    background-color: #f8fafb!important;
+  }
+  
+  .work .fa {
+    color: #000;
+    font-size: 14px;
+  }
+  
+  .ft-detail img {
+    max-width: 25%;
+    margin-right: 5px;
+  }
+  
+  .work a:hover {
+    color: #000;
+    text-decoration: none!important;
+  }
+  
+  .ft-detail a {
+    font-family: ABeeZee, sans-serif;
+    margin-bottom: 5px;
+    font-size: 12px;
+    color: #7b8088!important;
+  }
+  
+  .ft-detail a:hover {
+    background-color: #e1e4e6!important;
+    color: #343a3f!important;
+  }
+  
+  .ft-detail {
+    text-align: center!important;
+  }
+  
+  .line {
+    border-bottom: 1px solid rgb(236, 236, 236);
+    background-color: #fff!important;
+  }
+  
+  .dis-2 img {
+    max-width: 60%;
+    padding-top: 24px;
+    padding-bottom: 23px;
+  }
+  
+  .dis-3 img {
+    max-width: 15%;
+    padding-top: 17px;
+    padding-bottom: 17px;
+  }
+  
+  .dis-4 img {
+    max-width: 25%;
+    /* padding-top: 8px!important; */
+    /* padding-bottom: 8px!important; */
+  }
+  
+  .dis-5 img {
+    max-width: 60%;
+    padding-top: 25px!important;
+    padding-bottom: 25px!important;
+  }
+  
+  .dis-6 img {
+    max-width: 40%;
+    padding-top: 15px!important;
+    padding-bottom: 15px!important;
+  }
+  
+  .dis-7 img {
+    max-width: 45%;
+    padding-top: 20px!important;
+    padding-bottom: 20px!important;
+  }
+  
+  .dis-8 img {
+    max-width: 40%;
+    padding-top: 15px!important;
+    padding-bottom: 15px!important;
+  }
+  
+  .dis-9 img {
+    max-width: 28%;
+    padding-top: 15px!important;
+    padding-bottom: 15px!important;
+  }
+  
+  .dis {
+    background-color: #f8fafb;
+    text-align: center;
+  }
+  
+  /* portfolio ends here */

@@ -1,0 +1,58 @@
+
+.dev-1 h2 {
+    font-size: 16px;
+    font-weight: 550;
+    color: #343a3f;
+  }
+  
+  .dev-1 p {
+    font-size: 14px;
+    color: #7b8088;
+  }
+  
+  .dev-1 {
+    font-family: ABeeZee;
+  }
+  
+  .dev-2 {
+    max-width: 60%;
+    margin: 10px auto!important;
+  }
+  
+  .dev-3 {
+    border-bottom: 1px solid rgb(131, 131, 131);
+  }
+  
+  .cert-x12 .fa {
+    background-color: brown;
+    color: white;
+    font-size: 22px;
+    padding: 12px 13px;
+    border-radius: 50%;
+  }
+  
+  .cert-x12 {
+    text-align: left!important;
+    margin-top: 5px;
+  }
+  
+  .dev-detail {
+    padding-left: 25px!important;
+    padding-top: 5px;
+  }
+  
+  .dev-detail span {
+    margin-left: 22px;
+    background-color: rgb(214, 213, 228);
+    color: #fff;
+    padding: 0px 5px;
+    border-radius: 4px;
+    font-size: 10px;
+  }
+  
+  .space-top {
+    padding-top: 100px;
+  }
+  
+  /* certificate ends here */
+  

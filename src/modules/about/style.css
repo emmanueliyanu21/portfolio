@@ -1,0 +1,34 @@
+.due-p {
+    font-family: ABeeZee;
+    line-height: 1.8;
+    /* text-shadow: 3px 2px #f0f0f0!important; */
+}
+
+
+/* images details goes here */
+
+.sm-biz {
+    font-size: 40px;
+    font-weight: 700;
+    font-family: ABeeZee!important;
+    padding-bottom: 30px;
+}
+
+.ul-product {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: ABeeZee!important;
+    padding-bottom: 60px;
+    max-width: 80%;
+    margin: auto!important;
+}
+
+.akoka {
+    padding-top: 60px;
+}
+
+.active {
+    font-weight: 600;
+    font-size: 20px;
+    list-style: none!important;
+}
