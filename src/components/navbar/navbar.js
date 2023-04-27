@@ -5,34 +5,34 @@ function Navbar() {
   return (
     <>
         <section>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <div class="container">
+    <nav className="navbar navbar-expand-lg navbar-light bg-light">
+        <div className="container">
 
-            <Link class="navbar-brand" to="/"></Link>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
+            <Link className="navbar-brand" to="/"></Link>
+            <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span className="navbar-toggler-icon"></span>
   </button>
 
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav mr-auto ">
-                    <li class="nav-item">
-                        <Link class="nav-link" to="/">
+            <div className="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul className="navbar-nav mr-auto ">
+                    <li className="nav-item">
+                        <Link className="nav-link" to="/">
                             0706-857-6214</Link>
                     </li>
-                    <li class="nav-item ">
-                        <Link class="nav-link" to="/about">emmanueliyanu.oladejo@gmail.com</Link>
+                    <li className="nav-item ">
+                        <Link className="nav-link" to="/about">emmanueliyanu.oladejo@gmail.com</Link>
                     </li>
                 </ul>
 
-                <ul class="navbar-nav ml-auto df">
-                    <li class="nav-item">
-                        <Link class="nav-link" to="/">home</Link>
+                <ul className="navbar-nav ml-auto df">
+                    <li className="nav-item">
+                        <Link className="nav-link" to="/">home</Link>
                     </li>
-                    <li class="nav-item ">
-                        <Link class="nav-link" to="/about">about</Link>
+                    <li className="nav-item ">
+                        <Link className="nav-link" to="/about">about</Link>
                     </li>
-                    <li class="nav-item">
-                        <Link class="nav-link" to="/portfolio">portfolio</Link>
+                    <li className="nav-item">
+                        <Link className="nav-link" to="/portfolio">portfolio</Link>
                     </li>
                    
                 </ul>

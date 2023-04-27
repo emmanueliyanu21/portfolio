@@ -10,16 +10,16 @@ function Home() {
     <section >
     <div className="container">
         <div className="row">
-        <div class="col-md-6 portfolio">
-                <h2 class="port-1">I'm Emmanuel Iyanu</h2>
-                <h2 class="port-2"><span class="ui">Front</span>-<span class="ux">End</span> Developer</h2>
-                <div class="port-btn">
+        <div className="col-md-6 portfolio">
+                <h2 className="port-1">I'm Emmanuel Iyanu</h2>
+                <h2 className="port-2"><span className="ui">Front</span>-<span className="ux">End</span> Developer</h2>
+                <div className="port-btn">
 
-                    <Link to="/portfolio" class="btn btn-portfolio mf-1">
+                    <Link to="/portfolio" className="btn btn-portfolio mf-1">
                         portfolio
                         </Link>
 
-                    <Link to="/certification" class="btn btn-portfolio mf-2">
+                    <Link to="/certification" className="btn btn-portfolio mf-2">
                     certifications
                     </Link>
 

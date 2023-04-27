@@ -7,13 +7,13 @@ function About() {
   return (
     <>
     <Navbar />
-<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img class="d-block w-100 log-x2" src={leadership} alt="First slide" style={{maxWidth: '100%'}} />
-            <div class="carousel-caption d-none d-md-block">
-                <h2 class="sm-biz">About me</h2>
-                <p class="ul-product"></p>
+<div id="carouselExampleIndicators" className="carousel slide" data-ride="carousel">
+    <div className="carousel-inner">
+        <div className="carousel-item active">
+            <img className="d-block w-100 log-x2" src={leadership} alt="First slide" style={{maxWidth: '100%'}} />
+            <div className="carousel-caption d-none d-md-block">
+                <h2 className="sm-biz">About me</h2>
+                <p className="ul-product"></p>
             </div>
         </div>
     </div>
@@ -21,9 +21,9 @@ function About() {
 
 
 <section>
-    <div class="container due-p">
-        <div class="row akoka">
-            <div class="col-md-12">
+    <div className="container due-p">
+        <div className="row akoka">
+            <div className="col-md-12">
                 <p>
                     I live at Gbagada phase 2, Lagos with my life time girlfriend, Tefe a senior software enginner that works with TeamApt, I would not be the person I am today without her, and I thank the universe every day for bringing her into my life. We spend most of our free
                     time together, watching Netflix movies, going to Dodger games, and goofing off - and I wouldn't want it any other way.
@@ -36,10 +36,10 @@ function About() {
                     experiences. I approach technology with an element of humanity and simplicity, and make a point to keep the user in mind whenever I build anything for the web.</p>
             </div>
         </div>
-        <div class="row">
-            <div class="col-md-4">
+        <div className="row">
+            <div className="col-md-4">
                 <ul>
-                    <li class="active">I build with</li>
+                    <li className="active">I build with</li>
                     <li>Photoshop/Figma</li>
                     <li>HTML/CSS/JS</li>
                     <li>Flexbox/CSS Grid</li>
@@ -48,9 +48,9 @@ function About() {
 
                 </ul>
             </div>
-            <div class="col-md-4">
+            <div className="col-md-4">
                 <ul>
-                    <li class="active">I build with</li>
+                    <li className="active">I build with</li>
                     <li>React / Angular</li>
                     <li>Redux</li>
                     <li>Next</li>
@@ -58,9 +58,9 @@ function About() {
                     <li>Typescript</li>
                 </ul>
             </div>
-            <div class="col-md-4">
+            <div className="col-md-4">
                 <ul>
-                    <li class="active">I'm learning</li>
+                    <li className="active">I'm learning</li>
                     <li>Java</li>
                 </ul>
             </div>
