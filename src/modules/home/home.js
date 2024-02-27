@@ -11,7 +11,7 @@ function Home() {
     <div className="container">
         <div className="row">
         <div className="col-md-6 portfolio">
-                <h2 className="port-1">I'm Emmanuel Iyanu</h2>
+                <h2 className="port-1">I'm Emmanuel Oladejo</h2>
                 <h2 className="port-2"><span className="ui">Front</span>-<span className="ux">End</span> Developer</h2>
                 <div className="port-btn">
 
