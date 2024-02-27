@@ -45,12 +45,12 @@ function Portfolio() {
                     </div>
             </div>
             <div className="col-md-3">
-                <div className="work">
-                    <Link to="https://class54.com/" target="_blank">
-                        <div className="dis">
-                            <img src={image1} alt="portfolio" className="img-responsive" />
+            <div className="work">
+                    <Link to="https://www.kaiglo.com/" target="_blank">
+                        <div className="dis ">
+                            <img src={image7} alt="portfolio" className="img-responsive" />
                         </div>
-                        <h2 className="line">Class54</h2>
+                        <h2 className="line">Kaiglo</h2>
                     </Link>
                 </div>
             </div>
@@ -69,60 +69,6 @@ function Portfolio() {
         <div className="row port">
             <div className="col-md-3">
                 <div className="work">
-                    <Link to="https://printhouse.ng/" target="_blank">
-                        <div className="dis dis-2">
-                            <img src={image6} alt="portfolio" className="img-responsive" />
-                        </div>
-                        <h2 className="line">printhouse.ng</h2>
-                    </Link>
-                </div>
-            </div>
-            <div className="col-md-3">
-                <div className="work">
-                    <Link to="https://www.avetiumconsult.com/" target="_blank">
-                        <div className="dis">
-                            <img src={image2} alt="portfolio" className="img-responsive" />
-                        </div>
-                        <h2 className="line">avetiumconsult.com</h2>
-                    </Link>
-                </div>
-            </div>
-            <div className="col-md-3">
-                <div className="work">
-                    <Link to="https://pls-express.ng/" target="_blank">
-                        <div className="dis dis-5">
-                            <img src={image5} alt="portfolio" className="img-responsive" />
-                        </div>
-                        <h2 className="line">Pls-Express</h2>
-                    </Link>
-                </div>
-            </div>
-            <div className="col-md-3">
-                <div className="work">
-                    <Link to="https://onewattsolar.com/" target="_blank">
-                        <div className="dis">
-                            <img src={image8} alt="portfolio" className="img-responsive" />
-                        </div>
-                        <h2 className="line">onewattsolar</h2>
-                    </Link>
-                    
-                </div>
-            </div>
-        </div>
-        <div className="row port">
-            
-            <div className="col-md-3">
-            <div className="work">
-                    <Link to="https://www.kaiglo.com/" target="_blank">
-                        <div className="dis ">
-                            <img src={image7} alt="portfolio" className="img-responsive" />
-                        </div>
-                        <h2 className="line">Kaiglo</h2>
-                    </Link>
-                </div>
-            </div>
-            <div className="col-md-3">
-                <div className="work">
                     <Link to="https://onebmac.com/" target="_blank">
                         <div className="dis dis-6">
                             <img src={image9} alt="portfolio" className="img-responsive" />
@@ -131,24 +77,60 @@ function Portfolio() {
                     </Link>
                 </div>
             </div>
-            <div className="col-md-3">
-                <div className="work">
-                    <Link to="https://manilaedutech.herokuapp.com/" target="_blank">
-                        <div className="dis dis-7">
-                            <img src={image13} alt="portfolio" className="img-responsive" />
-                        </div>
-                        <h2 className="line">Manila EduTech</h2>
-                    </Link> </div>
-            </div>
-            <div className="col-md-3">
-                <div className="work">
-                    <Link to="https://scout4job.herokuapp.com/" target="_blank">
-                        <div className="dis dis-9">
-                            <img src={image4} alt="portfolio" className="img-responsive" />
-                        </div>
-                        <h2 className="line">scout4job</h2>
-                    </Link></div>
-            </div>
+            // <div className="col-md-3">
+            //     <div className="work">
+            //         <Link to="https://www.avetiumconsult.com/" target="_blank">
+            //             <div className="dis">
+            //                 <img src={image2} alt="portfolio" className="img-responsive" />
+            //             </div>
+            //             <h2 className="line">avetiumconsult.com</h2>
+            //         </Link>
+            //     </div>
+            // </div>
+            // <div className="col-md-3">
+            //     <div className="work">
+            //         <Link to="https://pls-express.ng/" target="_blank">
+            //             <div className="dis dis-5">
+            //                 <img src={image5} alt="portfolio" className="img-responsive" />
+            //             </div>
+            //             <h2 className="line">Pls-Express</h2>
+            //         </Link>
+            //     </div>
+            // </div>
+            // <div className="col-md-3">
+            //     <div className="work">
+            //         <Link to="https://onewattsolar.com/" target="_blank">
+            //             <div className="dis">
+            //                 <img src={image8} alt="portfolio" className="img-responsive" />
+            //             </div>
+            //             <h2 className="line">onewattsolar</h2>
+            //         </Link>
+                    
+            //     </div>
+            // </div>
+        </div>
+        <div className="row port">
+            
+            
+            
+            // <div className="col-md-3">
+            //     <div className="work">
+            //         <Link to="https://manilaedutech.herokuapp.com/" target="_blank">
+            //             <div className="dis dis-7">
+            //                 <img src={image13} alt="portfolio" className="img-responsive" />
+            //             </div>
+            //             <h2 className="line">Manila EduTech</h2>
+            //         </Link> </div>
+            // </div>
+            // <div className="col-md-3">
+            //     <div className="work">
+            //         <Link to="https://scout4job.herokuapp.com/" target="_blank">
+            //             <div className="dis dis-9">
+            //                 <img src={image4} alt="portfolio" className="img-responsive" />
+            //             </div>
+            //             <h2 className="line">scout4job</h2>
+            //         </Link></div>
+            // </div>
         </div>
     </div>
 
